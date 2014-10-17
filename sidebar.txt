@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kai:home|Door43 (kai)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kai|d43-kai repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kai/archive/master.zip|d43-kai.zip]]
+
+**Recent Changes**
+{{changes>ns = kai}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kai|Ethnologue data]]
+
